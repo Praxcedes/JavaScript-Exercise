@@ -8,6 +8,6 @@ function gradeStudent(score) {
   }
 }
 
-console.log(gradeStudent(85)); // "Excellent"
-console.log(gradeStudent(65)); // "Good"
-console.log(gradeStudent(40)); // "Fail"
+console.log(gradeStudent(85)); 
+console.log(gradeStudent(65)); 
+console.log(gradeStudent(40)); 
